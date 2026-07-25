@@ -1,0 +1,91 @@
+[
+  { "id": 1, "manufacturerId": 1, "name": "Swift", "category": "CAR", "bodyType": "Hatchback", "launchYear": 2005, "popularityScore": 99, "resaleScore": 97, "reliabilityScore": 95, "maintenanceCategory": "Low" },
+  { "id": 2, "manufacturerId": 1, "name": "Baleno", "category": "CAR", "bodyType": "Hatchback", "launchYear": 2015, "popularityScore": 96, "resaleScore": 94, "reliabilityScore": 93, "maintenanceCategory": "Low" },
+  { "id": 3, "manufacturerId": 1, "name": "Brezza", "category": "CAR", "bodyType": "SUV", "launchYear": 2016, "popularityScore": 95, "resaleScore": 93, "reliabilityScore": 94, "maintenanceCategory": "Low" },
+  { "id": 4, "manufacturerId": 1, "name": "Dzire", "category": "CAR", "bodyType": "Sedan", "launchYear": 2008, "popularityScore": 96, "resaleScore": 95, "reliabilityScore": 95, "maintenanceCategory": "Low" },
+  { "id": 5, "manufacturerId": 1, "name": "Ertiga", "category": "CAR", "bodyType": "MUV", "launchYear": 2012, "popularityScore": 94, "resaleScore": 93, "reliabilityScore": 93, "maintenanceCategory": "Low" },
+  { "id": 6, "manufacturerId": 1, "name": "Grand Vitara", "category": "CAR", "bodyType": "SUV", "launchYear": 2022, "popularityScore": 91, "resaleScore": 89, "reliabilityScore": 92, "maintenanceCategory": "Low" },
+  { "id": 7, "manufacturerId": 1, "name": "Fronx", "category": "CAR", "bodyType": "SUV", "launchYear": 2023, "popularityScore": 92, "resaleScore": 90, "reliabilityScore": 93, "maintenanceCategory": "Low" },
+
+  { "id": 8, "manufacturerId": 2, "name": "Creta", "category": "CAR", "bodyType": "SUV", "launchYear": 2015, "popularityScore": 98, "resaleScore": 95, "reliabilityScore": 92, "maintenanceCategory": "Moderate" },
+  { "id": 9, "manufacturerId": 2, "name": "i20", "category": "CAR", "bodyType": "Hatchback", "launchYear": 2008, "popularityScore": 90, "resaleScore": 88, "reliabilityScore": 90, "maintenanceCategory": "Low" },
+  { "id": 10, "manufacturerId": 2, "name": "Verna", "category": "CAR", "bodyType": "Sedan", "launchYear": 2006, "popularityScore": 87, "resaleScore": 84, "reliabilityScore": 91, "maintenanceCategory": "Moderate" },
+  { "id": 11, "manufacturerId": 2, "name": "Venue", "category": "CAR", "bodyType": "SUV", "launchYear": 2019, "popularityScore": 92, "resaleScore": 89, "reliabilityScore": 91, "maintenanceCategory": "Low" },
+  { "id": 12, "manufacturerId": 2, "name": "Grand i10 Nios", "category": "CAR", "bodyType": "Hatchback", "launchYear": 2019, "popularityScore": 88, "resaleScore": 86, "reliabilityScore": 92, "maintenanceCategory": "Low" },
+
+  { "id": 13, "manufacturerId": 3, "name": "Nexon", "category": "CAR", "bodyType": "SUV", "launchYear": 2017, "popularityScore": 97, "resaleScore": 90, "reliabilityScore": 89, "maintenanceCategory": "Low" },
+  { "id": 14, "manufacturerId": 3, "name": "Punch", "category": "CAR", "bodyType": "SUV", "launchYear": 2021, "popularityScore": 95, "resaleScore": 89, "reliabilityScore": 90, "maintenanceCategory": "Low" },
+  { "id": 15, "manufacturerId": 3, "name": "Harrier", "category": "CAR", "bodyType": "SUV", "launchYear": 2019, "popularityScore": 89, "resaleScore": 85, "reliabilityScore": 87, "maintenanceCategory": "Moderate" },
+  { "id": 16, "manufacturerId": 3, "name": "Safari", "category": "CAR", "bodyType": "SUV", "launchYear": 2021, "popularityScore": 88, "resaleScore": 84, "reliabilityScore": 86, "maintenanceCategory": "Moderate" },
+  { "id": 17, "manufacturerId": 3, "name": "Tiago", "category": "CAR", "bodyType": "Hatchback", "launchYear": 2016, "popularityScore": 87, "resaleScore": 83, "reliabilityScore": 88, "maintenanceCategory": "Low" },
+
+  { "id": 18, "manufacturerId": 4, "name": "Thar", "category": "CAR", "bodyType": "SUV", "launchYear": 2010, "popularityScore": 96, "resaleScore": 95, "reliabilityScore": 88, "maintenanceCategory": "Moderate" },
+  { "id": 19, "manufacturerId": 4, "name": "XUV700", "category": "CAR", "bodyType": "SUV", "launchYear": 2021, "popularityScore": 96, "resaleScore": 91, "reliabilityScore": 89, "maintenanceCategory": "Moderate" },
+  { "id": 20, "manufacturerId": 4, "name": "Scorpio-N", "category": "CAR", "bodyType": "SUV", "launchYear": 2022, "popularityScore": 95, "resaleScore": 92, "reliabilityScore": 89, "maintenanceCategory": "Moderate" },
+  { "id": 21, "manufacturerId": 4, "name": "Bolero", "category": "CAR", "bodyType": "SUV", "launchYear": 2000, "popularityScore": 92, "resaleScore": 91, "reliabilityScore": 92, "maintenanceCategory": "Low" },
+
+  { "id": 22, "manufacturerId": 5, "name": "Fortuner", "category": "CAR", "bodyType": "SUV", "launchYear": 2009, "popularityScore": 98, "resaleScore": 98, "reliabilityScore": 97, "maintenanceCategory": "Moderate" },
+  { "id": 23, "manufacturerId": 5, "name": "Innova Crysta", "category": "CAR", "bodyType": "MUV", "launchYear": 2016, "popularityScore": 97, "resaleScore": 97, "reliabilityScore": 98, "maintenanceCategory": "Low" },
+  { "id": 24, "manufacturerId": 5, "name": "Innova Hycross", "category": "CAR", "bodyType": "MUV", "launchYear": 2022, "popularityScore": 95, "resaleScore": 95, "reliabilityScore": 96, "maintenanceCategory": "Low" },
+  { "id": 25, "manufacturerId": 5, "name": "Urban Cruiser Hyryder", "category": "CAR", "bodyType": "SUV", "launchYear": 2022, "popularityScore": 90, "resaleScore": 89, "reliabilityScore": 93, "maintenanceCategory": "Low" },
+
+  { "id": 26, "manufacturerId": 6, "name": "City", "category": "CAR", "bodyType": "Sedan", "launchYear": 1998, "popularityScore": 95, "resaleScore": 92, "reliabilityScore": 96, "maintenanceCategory": "Low" },
+  { "id": 27, "manufacturerId": 6, "name": "Amaze", "category": "CAR", "bodyType": "Sedan", "launchYear": 2013, "popularityScore": 88, "resaleScore": 86, "reliabilityScore": 94, "maintenanceCategory": "Low" },
+  { "id": 28, "manufacturerId": 6, "name": "Elevate", "category": "CAR", "bodyType": "SUV", "launchYear": 2023, "popularityScore": 90, "resaleScore": 88, "reliabilityScore": 95, "maintenanceCategory": "Low" },
+
+  { "id": 29, "manufacturerId": 7, "name": "Seltos", "category": "CAR", "bodyType": "SUV", "launchYear": 2019, "popularityScore": 95, "resaleScore": 91, "reliabilityScore": 91, "maintenanceCategory": "Moderate" },
+  { "id": 30, "manufacturerId": 7, "name": "Sonet", "category": "CAR", "bodyType": "SUV", "launchYear": 2020, "popularityScore": 93, "resaleScore": 89, "reliabilityScore": 90, "maintenanceCategory": "Low" },
+  { "id": 31, "manufacturerId": 7, "name": "Carens", "category": "CAR", "bodyType": "MUV", "launchYear": 2022, "popularityScore": 90, "resaleScore": 88, "reliabilityScore": 90, "maintenanceCategory": "Moderate" },
+
+  { "id": 32, "manufacturerId": 8, "name": "Hector", "category": "CAR", "bodyType": "SUV", "launchYear": 2019, "popularityScore": 89, "resaleScore": 82, "reliabilityScore": 85, "maintenanceCategory": "Moderate" },
+  { "id": 33, "manufacturerId": 8, "name": "Astor", "category": "CAR", "bodyType": "SUV", "launchYear": 2021, "popularityScore": 82, "resaleScore": 79, "reliabilityScore": 84, "maintenanceCategory": "Moderate" },
+  { "id": 34, "manufacturerId": 8, "name": "ZS EV", "category": "EV", "bodyType": "SUV", "launchYear": 2020, "popularityScore": 86, "resaleScore": 80, "reliabilityScore": 87, "maintenanceCategory": "Low" },
+
+  { "id": 35, "manufacturerId": 9, "name": "Virtus", "category": "CAR", "bodyType": "Sedan", "launchYear": 2022, "popularityScore": 88, "resaleScore": 85, "reliabilityScore": 89, "maintenanceCategory": "Moderate" },
+  { "id": 36, "manufacturerId": 9, "name": "Taigun", "category": "CAR", "bodyType": "SUV", "launchYear": 2021, "popularityScore": 87, "resaleScore": 84, "reliabilityScore": 88, "maintenanceCategory": "Moderate" },
+
+  { "id": 37, "manufacturerId": 10, "name": "Slavia", "category": "CAR", "bodyType": "Sedan", "launchYear": 2022, "popularityScore": 88, "resaleScore": 85, "reliabilityScore": 89, "maintenanceCategory": "Moderate" },
+  { "id": 38, "manufacturerId": 10, "name": "Kushaq", "category": "CAR", "bodyType": "SUV", "launchYear": 2021, "popularityScore": 87, "resaleScore": 84, "reliabilityScore": 88, "maintenanceCategory": "Moderate" },
+
+  { "id": 39, "manufacturerId": 11, "name": "Kwid", "category": "CAR", "bodyType": "Hatchback", "launchYear": 2015, "popularityScore": 82, "resaleScore": 76, "reliabilityScore": 80, "maintenanceCategory": "Low" },
+  { "id": 40, "manufacturerId": 11, "name": "Triber", "category": "CAR", "bodyType": "MUV", "launchYear": 2019, "popularityScore": 83, "resaleScore": 78, "reliabilityScore": 81, "maintenanceCategory": "Low" },
+
+  { "id": 41, "manufacturerId": 12, "name": "Magnite", "category": "CAR", "bodyType": "SUV", "launchYear": 2020, "popularityScore": 86, "resaleScore": 80, "reliabilityScore": 83, "maintenanceCategory": "Low" },
+
+  { "id": 42, "manufacturerId": 13, "name": "Compass", "category": "CAR", "bodyType": "SUV", "launchYear": 2017, "popularityScore": 85, "resaleScore": 79, "reliabilityScore": 82, "maintenanceCategory": "High" },
+  { "id": 43, "manufacturerId": 13, "name": "Meridian", "category": "CAR", "bodyType": "SUV", "launchYear": 2022, "popularityScore": 80, "resaleScore": 76, "reliabilityScore": 81, "maintenanceCategory": "High" },
+
+  { "id": 44, "manufacturerId": 14, "name": "C3", "category": "CAR", "bodyType": "Hatchback", "launchYear": 2022, "popularityScore": 78, "resaleScore": 74, "reliabilityScore": 81, "maintenanceCategory": "Low" },
+  { "id": 45, "manufacturerId": 14, "name": "C3 Aircross", "category": "CAR", "bodyType": "SUV", "launchYear": 2023, "popularityScore": 76, "resaleScore": 72, "reliabilityScore": 80, "maintenanceCategory": "Moderate" },
+
+  { "id": 46, "manufacturerId": 15, "name": "Gurkha", "category": "CAR", "bodyType": "SUV", "launchYear": 2013, "popularityScore": 77, "resaleScore": 78, "reliabilityScore": 83, "maintenanceCategory": "Moderate" },
+
+  { "id": 47, "manufacturerId": 16, "name": "D-Max V-Cross", "category": "CAR", "bodyType": "Pickup SUV", "launchYear": 2016, "popularityScore": 80, "resaleScore": 81, "reliabilityScore": 90, "maintenanceCategory": "Moderate" },
+
+  { "id": 48, "manufacturerId": 17, "name": "3 Series", "category": "CAR", "bodyType": "Sedan", "launchYear": 2006, "popularityScore": 91, "resaleScore": 82, "reliabilityScore": 87, "maintenanceCategory": "Premium" },
+  { "id": 49, "manufacturerId": 17, "name": "X1", "category": "CAR", "bodyType": "SUV", "launchYear": 2011, "popularityScore": 90, "resaleScore": 83, "reliabilityScore": 86, "maintenanceCategory": "Premium" },
+
+  { "id": 50, "manufacturerId": 18, "name": "C-Class", "category": "CAR", "bodyType": "Sedan", "launchYear": 2001, "popularityScore": 92, "resaleScore": 83, "reliabilityScore": 88, "maintenanceCategory": "Premium" },
+  { "id": 51, "manufacturerId": 18, "name": "GLA", "category": "CAR", "bodyType": "SUV", "launchYear": 2014, "popularityScore": 89, "resaleScore": 82, "reliabilityScore": 87, "maintenanceCategory": "Premium" },
+
+  { "id": 52, "manufacturerId": 19, "name": "A4", "category": "CAR", "bodyType": "Sedan", "launchYear": 2008, "popularityScore": 88, "resaleScore": 79, "reliabilityScore": 85, "maintenanceCategory": "Premium" },
+  { "id": 53, "manufacturerId": 19, "name": "Q3", "category": "CAR", "bodyType": "SUV", "launchYear": 2012, "popularityScore": 89, "resaleScore": 81, "reliabilityScore": 86, "maintenanceCategory": "Premium" },
+
+  { "id": 54, "manufacturerId": 20, "name": "XC40 Recharge", "category": "EV", "bodyType": "SUV", "launchYear": 2022, "popularityScore": 84, "resaleScore": 80, "reliabilityScore": 89, "maintenanceCategory": "High" },
+
+  { "id": 55, "manufacturerId": 21, "name": "Cooper S", "category": "CAR", "bodyType": "Hatchback", "launchYear": 2012, "popularityScore": 85, "resaleScore": 80, "reliabilityScore": 84, "maintenanceCategory": "Premium" },
+
+  { "id": 56, "manufacturerId": 22, "name": "F-Pace", "category": "CAR", "bodyType": "SUV", "launchYear": 2016, "popularityScore": 82, "resaleScore": 74, "reliabilityScore": 80, "maintenanceCategory": "Premium" },
+
+  { "id": 57, "manufacturerId": 23, "name": "Defender", "category": "CAR", "bodyType": "SUV", "launchYear": 2020, "popularityScore": 94, "resaleScore": 92, "reliabilityScore": 86, "maintenanceCategory": "Premium" },
+  { "id": 58, "manufacturerId": 23, "name": "Range Rover Evoque", "category": "CAR", "bodyType": "SUV", "launchYear": 2012, "popularityScore": 87, "resaleScore": 78, "reliabilityScore": 81, "maintenanceCategory": "Premium" },
+
+  { "id": 59, "manufacturerId": 24, "name": "ES 300h", "category": "CAR", "bodyType": "Sedan", "launchYear": 2017, "popularityScore": 86, "resaleScore": 85, "reliabilityScore": 95, "maintenanceCategory": "High" },
+
+  { "id": 60, "manufacturerId": 25, "name": "Macan", "category": "CAR", "bodyType": "SUV", "launchYear": 2014, "popularityScore": 88, "resaleScore": 84, "reliabilityScore": 88, "maintenanceCategory": "Premium" },
+
+  { "id": 61, "manufacturerId": 26, "name": "Atto 3", "category": "EV", "bodyType": "SUV", "launchYear": 2022, "popularityScore": 83, "resaleScore": 80, "reliabilityScore": 88, "maintenanceCategory": "Low" },
+  { "id": 62, "manufacturerId": 26, "name": "Seal", "category": "EV", "bodyType": "Sedan", "launchYear": 2024, "popularityScore": 85, "resaleScore": 81, "reliabilityScore": 89, "maintenanceCategory": "Low" },
+
+  { "id": 63, "manufacturerId": 27, "name": "Model 3", "category": "EV", "bodyType": "Sedan", "launchYear": 2025, "popularityScore": 90, "resaleScore": 85, "reliabilityScore": 88, "maintenanceCategory": "Low" }
+]

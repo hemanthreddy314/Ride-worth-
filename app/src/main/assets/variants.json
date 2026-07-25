@@ -1,0 +1,63 @@
+[
+  { "id": 1, "modelId": 1, "name": "LXI 1.2 Petrol", "trimLevel": "LXI", "fuelType": "Petrol", "transmission": "Manual", "engineCapacityCc": 1197, "mileageKmpl": 24.8, "approxExShowroomPrice": 649000, "approxOnRoadPrice": 740000, "fuelTankCapacityL": 37.0, "launchYear": 2024 },
+  { "id": 2, "modelId": 1, "name": "VXI 1.2 Petrol", "trimLevel": "VXI", "fuelType": "Petrol", "transmission": "Manual", "engineCapacityCc": 1197, "mileageKmpl": 24.8, "approxExShowroomPrice": 729000, "approxOnRoadPrice": 830000, "fuelTankCapacityL": 37.0, "launchYear": 2024 },
+  { "id": 3, "modelId": 1, "name": "ZXI+ AMT Petrol", "trimLevel": "ZXI", "fuelType": "Petrol", "transmission": "Automatic", "engineCapacityCc": 1197, "mileageKmpl": 25.7, "approxExShowroomPrice": 950000, "approxOnRoadPrice": 1080000, "fuelTankCapacityL": 37.0, "launchYear": 2024 },
+
+  { "id": 4, "modelId": 2, "name": "Sigma 1.2 Petrol", "trimLevel": "Base", "fuelType": "Petrol", "transmission": "Manual", "engineCapacityCc": 1197, "mileageKmpl": 22.3, "approxExShowroomPrice": 666000, "approxOnRoadPrice": 760000, "fuelTankCapacityL": 37.0, "launchYear": 2022 },
+  { "id": 5, "modelId": 2, "name": "Alpha 1.2 AMT Petrol", "trimLevel": "Top", "fuelType": "Petrol", "transmission": "Automatic", "engineCapacityCc": 1197, "mileageKmpl": 22.9, "approxExShowroomPrice": 988000, "approxOnRoadPrice": 1120000, "fuelTankCapacityL": 37.0, "launchYear": 2022 },
+
+  { "id": 6, "modelId": 3, "name": "LXi Petrol", "trimLevel": "LXI", "fuelType": "Petrol", "transmission": "Manual", "engineCapacityCc": 1462, "mileageKmpl": 17.3, "approxExShowroomPrice": 834000, "approxOnRoadPrice": 950000, "fuelTankCapacityL": 48.0, "launchYear": 2022 },
+  { "id": 7, "modelId": 3, "name": "ZXi+ AT Petrol", "trimLevel": "ZXI", "fuelType": "Petrol", "transmission": "Automatic", "engineCapacityCc": 1462, "mileageKmpl": 19.8, "approxExShowroomPrice": 1414000, "approxOnRoadPrice": 1620000, "fuelTankCapacityL": 48.0, "launchYear": 2022 },
+
+  { "id": 8, "modelId": 8, "name": "EX 1.5 Petrol", "trimLevel": "Base", "fuelType": "Petrol", "transmission": "Manual", "engineCapacityCc": 1497, "mileageKmpl": 17.4, "approxExShowroomPrice": 1100000, "approxOnRoadPrice": 1290000, "fuelTankCapacityL": 50.0, "launchYear": 2024 },
+  { "id": 9, "modelId": 8, "name": "SX (O) 1.5 Diesel AT", "trimLevel": "Top", "fuelType": "Diesel", "transmission": "Automatic", "engineCapacityCc": 1493, "mileageKmpl": 19.1, "approxExShowroomPrice": 2010000, "approxOnRoadPrice": 2360000, "fuelTankCapacityL": 50.0, "launchYear": 2024 },
+
+  { "id": 10, "modelId": 13, "name": "Smart 1.2 Petrol", "trimLevel": "Base", "fuelType": "Petrol", "transmission": "Manual", "engineCapacityCc": 1199, "mileageKmpl": 17.0, "approxExShowroomPrice": 815000, "approxOnRoadPrice": 930000, "fuelTankCapacityL": 44.0, "launchYear": 2023 },
+  { "id": 11, "modelId": 13, "name": "Fearless+ S Diesel DCA", "trimLevel": "Top", "fuelType": "Diesel", "transmission": "Automatic", "engineCapacityCc": 1497, "mileageKmpl": 23.2, "approxExShowroomPrice": 1550000, "approxOnRoadPrice": 1820000, "fuelTankCapacityL": 44.0, "launchYear": 2023 },
+
+  { "id": 12, "modelId": 18, "name": "AX3 Hard Top Petrol", "trimLevel": "Mid", "fuelType": "Petrol", "transmission": "Manual", "engineCapacityCc": 1997, "mileageKmpl": 13.0, "approxExShowroomPrice": 1430000, "approxOnRoadPrice": 1680000, "fuelTankCapacityL": 57.0, "launchYear": 2020 },
+  { "id": 13, "modelId": 18, "name": "LX Hard Top Diesel AT", "trimLevel": "Top", "fuelType": "Diesel", "transmission": "Automatic", "engineCapacityCc": 2184, "mileageKmpl": 15.2, "approxExShowroomPrice": 1760000, "approxOnRoadPrice": 2050000, "fuelTankCapacityL": 57.0, "launchYear": 2020 },
+
+  { "id": 14, "modelId": 22, "name": "4x2 2.8 Diesel MT", "trimLevel": "Mid", "fuelType": "Diesel", "transmission": "Manual", "engineCapacityCc": 2755, "mileageKmpl": 14.4, "approxExShowroomPrice": 3590000, "approxOnRoadPrice": 4250000, "fuelTankCapacityL": 80.0, "launchYear": 2021 },
+  { "id": 15, "modelId": 22, "name": "Legender 4x4 AT", "trimLevel": "Top", "fuelType": "Diesel", "transmission": "Automatic", "engineCapacityCc": 2755, "mileageKmpl": 14.2, "approxExShowroomPrice": 4760000, "approxOnRoadPrice": 5600000, "fuelTankCapacityL": 80.0, "launchYear": 2021 },
+
+  { "id": 16, "modelId": 26, "name": "V MT Petrol", "trimLevel": "VX", "fuelType": "Petrol", "transmission": "Manual", "engineCapacityCc": 1498, "mileageKmpl": 17.8, "approxExShowroomPrice": 1180000, "approxOnRoadPrice": 1380000, "fuelTankCapacityL": 40.0, "launchYear": 2020 },
+  { "id": 17, "modelId": 26, "name": "ZX CVT Petrol", "trimLevel": "ZX", "fuelType": "Petrol", "transmission": "Automatic", "engineCapacityCc": 1498, "mileageKmpl": 18.4, "approxExShowroomPrice": 1490000, "approxOnRoadPrice": 1720000, "fuelTankCapacityL": 40.0, "launchYear": 2020 },
+
+  { "id": 18, "modelId": 29, "name": "HTX 1.5 Petrol", "trimLevel": "HTX", "fuelType": "Petrol", "transmission": "Manual", "engineCapacityCc": 1497, "mileageKmpl": 17.0, "approxExShowroomPrice": 1530000, "approxOnRoadPrice": 1780000, "fuelTankCapacityL": 50.0, "launchYear": 2023 },
+  { "id": 19, "modelId": 29, "name": "GTX+ 1.5 Turbo DCT", "trimLevel": "GT", "fuelType": "Petrol", "transmission": "Automatic", "engineCapacityCc": 1482, "mileageKmpl": 17.9, "approxExShowroomPrice": 1980000, "approxOnRoadPrice": 2300000, "fuelTankCapacityL": 50.0, "launchYear": 2023 },
+
+  { "id": 20, "modelId": 38, "name": "Comfortline 1.0 TSI", "trimLevel": "Base", "fuelType": "Petrol", "transmission": "Manual", "engineCapacityCc": 999, "mileageKmpl": 20.8, "approxExShowroomPrice": 1150000, "approxOnRoadPrice": 1330000, "fuelTankCapacityL": 45.0, "launchYear": 2022 },
+  { "id": 21, "modelId": 38, "name": "GT Plus 1.5 TSI DSG", "trimLevel": "GT", "fuelType": "Petrol", "transmission": "Automatic", "engineCapacityCc": 1498, "mileageKmpl": 19.6, "approxExShowroomPrice": 1930000, "approxOnRoadPrice": 2240000, "fuelTankCapacityL": 45.0, "launchYear": 2022 },
+
+  { "id": 22, "modelId": 48, "name": "2.0 LCI M Sport", "trimLevel": "Special Edition", "fuelType": "Petrol", "transmission": "Automatic", "engineCapacityCc": 1998, "mileageKmpl": 16.1, "approxExShowroomPrice": 6060000, "approxOnRoadPrice": 7100000, "fuelTankCapacityL": 59.0, "launchYear": 2023 },
+
+  { "id": 23, "modelId": 50, "name": "C 200 Petrol", "trimLevel": "Standard", "fuelType": "Petrol", "transmission": "Automatic", "engineCapacityCc": 1496, "mileageKmpl": 16.9, "approxExShowroomPrice": 6180000, "approxOnRoadPrice": 7250000, "fuelTankCapacityL": 66.0, "launchYear": 2022 },
+
+  { "id": 24, "modelId": 57, "name": "110 SE 2.0 Petrol", "trimLevel": "Mid", "fuelType": "Petrol", "transmission": "Automatic", "engineCapacityCc": 1997, "mileageKmpl": 9.2, "approxExShowroomPrice": 9700000, "approxOnRoadPrice": 11400000, "fuelTankCapacityL": 85.0, "launchYear": 2020 },
+
+  { "id": 25, "modelId": 61, "name": "Design 60 kWh", "trimLevel": "Base", "fuelType": "Electric", "transmission": "Automatic", "engineCapacityCc": 0, "mileageKmpl": 0.0, "approxExShowroomPrice": 3399000, "approxOnRoadPrice": 3550000, "fuelTankCapacityL": 0.0, "launchYear": 2022 },
+
+  { "id": 26, "modelId": 63, "name": "Long Range Dual Motor", "trimLevel": "Top", "fuelType": "Electric", "transmission": "Automatic", "engineCapacityCc": 0, "mileageKmpl": 0.0, "approxExShowroomPrice": 6000000, "approxOnRoadPrice": 6300000, "fuelTankCapacityL": 0.0, "launchYear": 2025 },
+
+  { "id": 501, "modelId": 501, "name": "Self Start Alloy i3S", "trimLevel": "STD", "fuelType": "Petrol", "transmission": "Manual", "engineCapacityCc": 97, "mileageKmpl": 80.5, "approxExShowroomPrice": 75400, "approxOnRoadPrice": 89000, "fuelTankCapacityL": 9.8, "launchYear": 2023 },
+
+  { "id": 502, "modelId": 508, "name": "STD 6G", "trimLevel": "STD", "fuelType": "Petrol", "transmission": "Automatic", "engineCapacityCc": 109, "mileageKmpl": 50.0, "approxExShowroomPrice": 76200, "approxOnRoadPrice": 90000, "fuelTankCapacityL": 5.3, "launchYear": 2020 },
+  { "id": 503, "modelId": 508, "name": "DLX 6G H-Smart", "trimLevel": "DLX", "fuelType": "Petrol", "transmission": "Automatic", "engineCapacityCc": 109, "mileageKmpl": 50.0, "approxExShowroomPrice": 82700, "approxOnRoadPrice": 97000, "fuelTankCapacityL": 5.3, "launchYear": 2023 },
+
+  { "id": 504, "modelId": 516, "name": "Disc Bluetooth", "trimLevel": "DLX", "fuelType": "Petrol", "transmission": "Manual", "engineCapacityCc": 159, "mileageKmpl": 47.0, "approxExShowroomPrice": 126000, "approxOnRoadPrice": 147000, "fuelTankCapacityL": 12.0, "launchYear": 2022 },
+
+  { "id": 505, "modelId": 520, "name": "Single Disc ABS", "trimLevel": "STD", "fuelType": "Petrol", "transmission": "Manual", "engineCapacityCc": 149, "mileageKmpl": 48.0, "approxExShowroomPrice": 111000, "approxOnRoadPrice": 131000, "fuelTankCapacityL": 15.0, "launchYear": 2021 },
+
+  { "id": 506, "modelId": 525, "name": "Halcyon Single Channel ABS", "trimLevel": "Base", "fuelType": "Petrol", "transmission": "Manual", "engineCapacityCc": 349, "mileageKmpl": 36.2, "approxExShowroomPrice": 193000, "approxOnRoadPrice": 220000, "fuelTankCapacityL": 13.0, "launchYear": 2021 },
+  { "id": 507, "modelId": 525, "name": "Dark Stealth Black Dual ABS", "trimLevel": "Top", "fuelType": "Petrol", "transmission": "Manual", "engineCapacityCc": 349, "mileageKmpl": 36.2, "approxExShowroomPrice": 225000, "approxOnRoadPrice": 258000, "fuelTankCapacityL": 13.0, "launchYear": 2021 },
+
+  { "id": 508, "modelId": 530, "name": "Intensity White V4", "trimLevel": "Top", "fuelType": "Petrol", "transmission": "Manual", "engineCapacityCc": 155, "mileageKmpl": 45.0, "approxExShowroomPrice": 182000, "approxOnRoadPrice": 210000, "fuelTankCapacityL": 11.0, "launchYear": 2021 },
+
+  { "id": 509, "modelId": 534, "name": "Special Edition Bluetooth", "trimLevel": "Special Edition", "fuelType": "Petrol", "transmission": "Automatic", "engineCapacityCc": 124, "mileageKmpl": 52.6, "approxExShowroomPrice": 89500, "approxOnRoadPrice": 105000, "fuelTankCapacityL": 5.0, "launchYear": 2022 },
+  { "id": 510, "modelId": 542, "name": "Gen III Standard", "trimLevel": "Top", "fuelType": "Petrol", "transmission": "Manual", "engineCapacityCc": 1340, "mileageKmpl": 18.0, "approxExShowroomPrice": 1690000, "approxOnRoadPrice": 1950000, "fuelTankCapacityL": 20.0, "launchYear": 2021 },
+
+  { "id": 511, "modelId": 547, "name": "Duke 390 Gen 3", "trimLevel": "STD", "fuelType": "Petrol", "transmission": "Manual", "engineCapacityCc": 399, "mileageKmpl": 28.5, "approxExShowroomPrice": 311000, "approxOnRoadPrice": 360000, "fuelTankCapacityL": 15.0, "launchYear": 2023 },
+
+  { "id": 512, "modelId": 551, "name": "Speed 400 Standard", "trimLevel": "STD", "fuelType": "Petrol", "transmission": "Manual", "engineCapacityCc": 398, "mileageKmpl": 29.0, "approxExShowroomPrice": 233000, "approxOnRoadPrice": 270000, "fuelTankCapacityL": 13.0, "launchYear": 2023 }
+]

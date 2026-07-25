@@ -1,0 +1,6 @@
+{
+  "name": "RideWorth",
+  "description": "Estimate the fair market value of used cars and bikes in India with luxury precision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

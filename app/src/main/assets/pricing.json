@@ -1,0 +1,18 @@
+[
+  { "id": 1, "variantId": 1, "stateCode": "MH", "exShowroomPrice": 649000, "onRoadPrice": 740000, "baseDepreciationRate": 0.09, "lastUpdatedTimestamp": 1718000000000 },
+  { "id": 2, "variantId": 3, "stateCode": "MH", "exShowroomPrice": 950000, "onRoadPrice": 1080000, "baseDepreciationRate": 0.09, "lastUpdatedTimestamp": 1718000000000 },
+  { "id": 3, "variantId": 8, "stateCode": "MH", "exShowroomPrice": 1100000, "onRoadPrice": 1290000, "baseDepreciationRate": 0.08, "lastUpdatedTimestamp": 1718000000000 },
+  { "id": 4, "variantId": 9, "stateCode": "MH", "exShowroomPrice": 2010000, "onRoadPrice": 2360000, "baseDepreciationRate": 0.08, "lastUpdatedTimestamp": 1718000000000 },
+  { "id": 5, "variantId": 10, "stateCode": "MH", "exShowroomPrice": 815000, "onRoadPrice": 930000, "baseDepreciationRate": 0.10, "lastUpdatedTimestamp": 1718000000000 },
+  { "id": 6, "variantId": 14, "stateCode": "MH", "exShowroomPrice": 3590000, "onRoadPrice": 4250000, "baseDepreciationRate": 0.07, "lastUpdatedTimestamp": 1718000000000 },
+  { "id": 7, "variantId": 16, "stateCode": "MH", "exShowroomPrice": 1180000, "onRoadPrice": 1380000, "baseDepreciationRate": 0.09, "lastUpdatedTimestamp": 1718000000000 },
+  { "id": 8, "variantId": 17, "stateCode": "MH", "exShowroomPrice": 1490000, "onRoadPrice": 1720000, "baseDepreciationRate": 0.09, "lastUpdatedTimestamp": 1718000000000 },
+  { "id": 9, "variantId": 22, "stateCode": "MH", "exShowroomPrice": 6060000, "onRoadPrice": 7100000, "baseDepreciationRate": 0.12, "lastUpdatedTimestamp": 1718000000000 },
+  { "id": 10, "variantId": 25, "stateCode": "MH", "exShowroomPrice": 3399000, "onRoadPrice": 3550000, "baseDepreciationRate": 0.10, "lastUpdatedTimestamp": 1718000000000 },
+  { "id": 101, "variantId": 501, "stateCode": "MH", "exShowroomPrice": 75400, "onRoadPrice": 89000, "baseDepreciationRate": 0.08, "lastUpdatedTimestamp": 1718000000000 },
+  { "id": 102, "variantId": 502, "stateCode": "MH", "exShowroomPrice": 76200, "onRoadPrice": 90000, "baseDepreciationRate": 0.08, "lastUpdatedTimestamp": 1718000000000 },
+  { "id": 103, "variantId": 506, "stateCode": "MH", "exShowroomPrice": 193000, "onRoadPrice": 220000, "baseDepreciationRate": 0.07, "lastUpdatedTimestamp": 1718000000000 },
+  { "id": 104, "variantId": 509, "stateCode": "MH", "exShowroomPrice": 89500, "onRoadPrice": 105000, "baseDepreciationRate": 0.08, "lastUpdatedTimestamp": 1718000000000 },
+  { "id": 105, "variantId": 510, "stateCode": "MH", "exShowroomPrice": 1690000, "onRoadPrice": 1950000, "baseDepreciationRate": 0.10, "lastUpdatedTimestamp": 1718000000000 },
+  { "id": 106, "variantId": 512, "stateCode": "MH", "exShowroomPrice": 233000, "onRoadPrice": 270000, "baseDepreciationRate": 0.08, "lastUpdatedTimestamp": 1718000000000 }
+]

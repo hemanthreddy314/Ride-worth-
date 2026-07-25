@@ -1,0 +1,84 @@
+[
+  { "id": 501, "manufacturerId": 101, "name": "Splendor Plus", "category": "BIKE", "bodyType": "Commuter", "launchYear": 1994, "popularityScore": 100, "resaleScore": 98, "reliabilityScore": 98, "maintenanceCategory": "Low" },
+  { "id": 502, "manufacturerId": 101, "name": "HF Deluxe", "category": "BIKE", "bodyType": "Commuter", "launchYear": 2010, "popularityScore": 95, "resaleScore": 93, "reliabilityScore": 96, "maintenanceCategory": "Low" },
+  { "id": 503, "manufacturerId": 101, "name": "Passion Pro", "category": "BIKE", "bodyType": "Commuter", "launchYear": 2001, "popularityScore": 91, "resaleScore": 89, "reliabilityScore": 94, "maintenanceCategory": "Low" },
+  { "id": 504, "manufacturerId": 101, "name": "Glamour", "category": "BIKE", "bodyType": "Commuter", "launchYear": 2005, "popularityScore": 90, "resaleScore": 88, "reliabilityScore": 93, "maintenanceCategory": "Low" },
+  { "id": 505, "manufacturerId": 101, "name": "Xtreme 160R", "category": "BIKE", "bodyType": "Sports", "launchYear": 2020, "popularityScore": 87, "resaleScore": 84, "reliabilityScore": 90, "maintenanceCategory": "Low" },
+  { "id": 506, "manufacturerId": 101, "name": "Xpulse 200 4V", "category": "BIKE", "bodyType": "Off-Road", "launchYear": 2019, "popularityScore": 92, "resaleScore": 88, "reliabilityScore": 89, "maintenanceCategory": "Low" },
+  { "id": 507, "manufacturerId": 101, "name": "Pleasure Plus", "category": "SCOOTER", "bodyType": "Scooter", "launchYear": 2006, "popularityScore": 88, "resaleScore": 86, "reliabilityScore": 92, "maintenanceCategory": "Low" },
+
+  { "id": 508, "manufacturerId": 102, "name": "Activa 6G", "category": "SCOOTER", "bodyType": "Scooter", "launchYear": 2001, "popularityScore": 100, "resaleScore": 98, "reliabilityScore": 98, "maintenanceCategory": "Low" },
+  { "id": 509, "manufacturerId": 102, "name": "Activa 125", "category": "SCOOTER", "bodyType": "Scooter", "launchYear": 2014, "popularityScore": 94, "resaleScore": 93, "reliabilityScore": 97, "maintenanceCategory": "Low" },
+  { "id": 510, "manufacturerId": 102, "name": "Shine 125", "category": "BIKE", "bodyType": "Commuter", "launchYear": 2006, "popularityScore": 96, "resaleScore": 95, "reliabilityScore": 97, "maintenanceCategory": "Low" },
+  { "id": 511, "manufacturerId": 102, "name": "SP 125", "category": "BIKE", "bodyType": "Commuter", "launchYear": 2019, "popularityScore": 93, "resaleScore": 91, "reliabilityScore": 96, "maintenanceCategory": "Low" },
+  { "id": 512, "manufacturerId": 102, "name": "Unicorn", "category": "BIKE", "bodyType": "Commuter", "launchYear": 2004, "popularityScore": 92, "resaleScore": 92, "reliabilityScore": 97, "maintenanceCategory": "Low" },
+  { "id": 513, "manufacturerId": 102, "name": "CB350", "category": "BIKE", "bodyType": "Cruiser", "launchYear": 2020, "popularityScore": 91, "resaleScore": 89, "reliabilityScore": 94, "maintenanceCategory": "Moderate" },
+
+  { "id": 514, "manufacturerId": 103, "name": "Jupiter", "category": "SCOOTER", "bodyType": "Scooter", "launchYear": 2013, "popularityScore": 96, "resaleScore": 94, "reliabilityScore": 94, "maintenanceCategory": "Low" },
+  { "id": 515, "manufacturerId": 103, "name": "NTORQ 125", "category": "SCOOTER", "bodyType": "Scooter", "launchYear": 2018, "popularityScore": 95, "resaleScore": 92, "reliabilityScore": 92, "maintenanceCategory": "Low" },
+  { "id": 516, "manufacturerId": 103, "name": "Apache RTR 160", "category": "BIKE", "bodyType": "Sports", "launchYear": 2006, "popularityScore": 95, "resaleScore": 90, "reliabilityScore": 91, "maintenanceCategory": "Low" },
+  { "id": 517, "manufacturerId": 103, "name": "Apache RTR 200 4V", "category": "BIKE", "bodyType": "Sports", "launchYear": 2016, "popularityScore": 92, "resaleScore": 88, "reliabilityScore": 90, "maintenanceCategory": "Low" },
+  { "id": 518, "manufacturerId": 103, "name": "Raider 125", "category": "BIKE", "bodyType": "Commuter", "launchYear": 2021, "popularityScore": 94, "resaleScore": 90, "reliabilityScore": 92, "maintenanceCategory": "Low" },
+  { "id": 519, "manufacturerId": 103, "name": "Ronin", "category": "BIKE", "bodyType": "Cruiser", "launchYear": 2022, "popularityScore": 88, "resaleScore": 85, "reliabilityScore": 91, "maintenanceCategory": "Moderate" },
+
+  { "id": 520, "manufacturerId": 104, "name": "Pulsar 150", "category": "BIKE", "bodyType": "Sports", "launchYear": 2001, "popularityScore": 98, "resaleScore": 92, "reliabilityScore": 91, "maintenanceCategory": "Low" },
+  { "id": 521, "manufacturerId": 104, "name": "Pulsar N160", "category": "BIKE", "bodyType": "Sports", "launchYear": 2022, "popularityScore": 93, "resaleScore": 89, "reliabilityScore": 91, "maintenanceCategory": "Low" },
+  { "id": 522, "manufacturerId": 104, "name": "Pulsar NS200", "category": "BIKE", "bodyType": "Sports", "launchYear": 2012, "popularityScore": 94, "resaleScore": 88, "reliabilityScore": 89, "maintenanceCategory": "Moderate" },
+  { "id": 523, "manufacturerId": 104, "name": "Dominar 400", "category": "BIKE", "bodyType": "Tourer", "launchYear": 2016, "popularityScore": 89, "resaleScore": 83, "reliabilityScore": 88, "maintenanceCategory": "Moderate" },
+  { "id": 524, "manufacturerId": 104, "name": "Chetak EV", "category": "EV", "bodyType": "Scooter", "launchYear": 2020, "popularityScore": 90, "resaleScore": 86, "reliabilityScore": 91, "maintenanceCategory": "Low" },
+
+  { "id": 525, "manufacturerId": 105, "name": "Classic 350", "category": "BIKE", "bodyType": "Cruiser", "launchYear": 2009, "popularityScore": 99, "resaleScore": 96, "reliabilityScore": 90, "maintenanceCategory": "Low" },
+  { "id": 526, "manufacturerId": 105, "name": "Hunter 350", "category": "BIKE", "bodyType": "Roadster", "launchYear": 2022, "popularityScore": 94, "resaleScore": 91, "reliabilityScore": 92, "maintenanceCategory": "Low" },
+  { "id": 527, "manufacturerId": 105, "name": "Meteor 350", "category": "BIKE", "bodyType": "Cruiser", "launchYear": 2020, "popularityScore": 93, "resaleScore": 90, "reliabilityScore": 92, "maintenanceCategory": "Low" },
+  { "id": 528, "manufacturerId": 105, "name": "Himalayan 450", "category": "BIKE", "bodyType": "Tourer", "launchYear": 2023, "popularityScore": 92, "resaleScore": 89, "reliabilityScore": 88, "maintenanceCategory": "Moderate" },
+  { "id": 529, "manufacturerId": 105, "name": "Continental GT 650", "category": "BIKE", "bodyType": "Cafe Racer", "launchYear": 2018, "popularityScore": 90, "resaleScore": 87, "reliabilityScore": 90, "maintenanceCategory": "Moderate" },
+
+  { "id": 530, "manufacturerId": 106, "name": "R15 V4", "category": "BIKE", "bodyType": "Sports", "launchYear": 2008, "popularityScore": 97, "resaleScore": 93, "reliabilityScore": 94, "maintenanceCategory": "Moderate" },
+  { "id": 531, "manufacturerId": 106, "name": "MT-15 V2", "category": "BIKE", "bodyType": "Sports", "launchYear": 2019, "popularityScore": 96, "resaleScore": 92, "reliabilityScore": 94, "maintenanceCategory": "Moderate" },
+  { "id": 532, "manufacturerId": 106, "name": "FZ-S FI", "category": "BIKE", "bodyType": "Commuter", "launchYear": 2008, "popularityScore": 92, "resaleScore": 88, "reliabilityScore": 93, "maintenanceCategory": "Low" },
+  { "id": 533, "manufacturerId": 106, "name": "Aerox 155", "category": "SCOOTER", "bodyType": "Scooter", "launchYear": 2021, "popularityScore": 90, "resaleScore": 87, "reliabilityScore": 93, "maintenanceCategory": "Moderate" },
+
+  { "id": 534, "manufacturerId": 107, "name": "Access 125", "category": "SCOOTER", "bodyType": "Scooter", "launchYear": 2007, "popularityScore": 97, "resaleScore": 95, "reliabilityScore": 96, "maintenanceCategory": "Low" },
+  { "id": 535, "manufacturerId": 107, "name": "Avenis", "category": "SCOOTER", "bodyType": "Scooter", "launchYear": 2021, "popularityScore": 88, "resaleScore": 85, "reliabilityScore": 93, "maintenanceCategory": "Low" },
+  { "id": 536, "manufacturerId": 107, "name": "Burgman Street", "category": "SCOOTER", "bodyType": "Scooter", "launchYear": 2018, "popularityScore": 90, "resaleScore": 87, "reliabilityScore": 94, "maintenanceCategory": "Low" },
+  { "id": 537, "manufacturerId": 107, "name": "Gixxer 150", "category": "BIKE", "bodyType": "Sports", "launchYear": 2014, "popularityScore": 89, "resaleScore": 84, "reliabilityScore": 91, "maintenanceCategory": "Low" },
+  { "id": 538, "manufacturerId": 107, "name": "Gixxer SF", "category": "BIKE", "bodyType": "Sports", "launchYear": 2015, "popularityScore": 90, "resaleScore": 85, "reliabilityScore": 91, "maintenanceCategory": "Low" },
+  { "id": 539, "manufacturerId": 107, "name": "Gixxer 250", "category": "BIKE", "bodyType": "Sports", "launchYear": 2019, "popularityScore": 86, "resaleScore": 82, "reliabilityScore": 90, "maintenanceCategory": "Moderate" },
+  { "id": 540, "manufacturerId": 107, "name": "Gixxer SF 250", "category": "BIKE", "bodyType": "Sports", "launchYear": 2019, "popularityScore": 87, "resaleScore": 83, "reliabilityScore": 90, "maintenanceCategory": "Moderate" },
+  { "id": 541, "manufacturerId": 107, "name": "V-Strom SX 250", "category": "BIKE", "bodyType": "Tourer", "launchYear": 2022, "popularityScore": 88, "resaleScore": 84, "reliabilityScore": 91, "maintenanceCategory": "Moderate" },
+  { "id": 542, "manufacturerId": 107, "name": "Hayabusa", "category": "BIKE", "bodyType": "Superbike", "launchYear": 2008, "popularityScore": 96, "resaleScore": 92, "reliabilityScore": 93, "maintenanceCategory": "Premium" },
+  { "id": 543, "manufacturerId": 107, "name": "Katana", "category": "BIKE", "bodyType": "Sports", "launchYear": 2022, "popularityScore": 82, "resaleScore": 78, "reliabilityScore": 91, "maintenanceCategory": "Premium" },
+  { "id": 544, "manufacturerId": 107, "name": "GSX-8R", "category": "BIKE", "bodyType": "Sports", "launchYear": 2024, "popularityScore": 84, "resaleScore": 80, "reliabilityScore": 90, "maintenanceCategory": "Premium" },
+  { "id": 545, "manufacturerId": 107, "name": "GSX-S1000", "category": "BIKE", "bodyType": "Sports", "launchYear": 2021, "popularityScore": 83, "resaleScore": 79, "reliabilityScore": 90, "maintenanceCategory": "Premium" },
+
+  { "id": 546, "manufacturerId": 108, "name": "Duke 200", "category": "BIKE", "bodyType": "Sports", "launchYear": 2012, "popularityScore": 95, "resaleScore": 88, "reliabilityScore": 87, "maintenanceCategory": "Moderate" },
+  { "id": 547, "manufacturerId": 108, "name": "Duke 390", "category": "BIKE", "bodyType": "Sports", "launchYear": 2013, "popularityScore": 96, "resaleScore": 89, "reliabilityScore": 86, "maintenanceCategory": "Moderate" },
+  { "id": 548, "manufacturerId": 108, "name": "RC 200", "category": "BIKE", "bodyType": "Sports", "launchYear": 2014, "popularityScore": 92, "resaleScore": 86, "reliabilityScore": 87, "maintenanceCategory": "Moderate" },
+
+  { "id": 549, "manufacturerId": 109, "name": "Ninja 300", "category": "BIKE", "bodyType": "Sports", "launchYear": 2013, "popularityScore": 91, "resaleScore": 87, "reliabilityScore": 92, "maintenanceCategory": "High" },
+  { "id": 550, "manufacturerId": 109, "name": "Z900", "category": "BIKE", "bodyType": "Superbike", "launchYear": 2017, "popularityScore": 93, "resaleScore": 89, "reliabilityScore": 91, "maintenanceCategory": "Premium" },
+
+  { "id": 551, "manufacturerId": 110, "name": "Speed 400", "category": "BIKE", "bodyType": "Roadster", "launchYear": 2023, "popularityScore": 95, "resaleScore": 91, "reliabilityScore": 92, "maintenanceCategory": "Moderate" },
+  { "id": 552, "manufacturerId": 110, "name": "Scrambler 400X", "category": "BIKE", "bodyType": "Off-Road", "launchYear": 2023, "popularityScore": 92, "resaleScore": 89, "reliabilityScore": 91, "maintenanceCategory": "Moderate" },
+
+  { "id": 553, "manufacturerId": 111, "name": "G 310 R", "category": "BIKE", "bodyType": "Sports", "launchYear": 2018, "popularityScore": 89, "resaleScore": 84, "reliabilityScore": 89, "maintenanceCategory": "High" },
+  { "id": 554, "manufacturerId": 111, "name": "G 310 GS", "category": "BIKE", "bodyType": "Tourer", "launchYear": 2018, "popularityScore": 90, "resaleScore": 86, "reliabilityScore": 89, "maintenanceCategory": "High" },
+
+  { "id": 555, "manufacturerId": 112, "name": "X440", "category": "BIKE", "bodyType": "Cruiser", "launchYear": 2023, "popularityScore": 91, "resaleScore": 87, "reliabilityScore": 90, "maintenanceCategory": "Moderate" },
+
+  { "id": 556, "manufacturerId": 113, "name": "RS 457", "category": "BIKE", "bodyType": "Sports", "launchYear": 2024, "popularityScore": 90, "resaleScore": 85, "reliabilityScore": 88, "maintenanceCategory": "High" },
+
+  { "id": 557, "manufacturerId": 114, "name": "Monster", "category": "BIKE", "bodyType": "Superbike", "launchYear": 2014, "popularityScore": 88, "resaleScore": 82, "reliabilityScore": 86, "maintenanceCategory": "Premium" },
+
+  { "id": 558, "manufacturerId": 115, "name": "Imperiale 400", "category": "BIKE", "bodyType": "Cruiser", "launchYear": 2019, "popularityScore": 80, "resaleScore": 73, "reliabilityScore": 81, "maintenanceCategory": "Moderate" },
+
+  { "id": 559, "manufacturerId": 116, "name": "Jawa 350", "category": "BIKE", "bodyType": "Cruiser", "launchYear": 2018, "popularityScore": 86, "resaleScore": 80, "reliabilityScore": 82, "maintenanceCategory": "Moderate" },
+
+  { "id": 560, "manufacturerId": 117, "name": "Yezdi Roadster", "category": "BIKE", "bodyType": "Cruiser", "launchYear": 2022, "popularityScore": 84, "resaleScore": 78, "reliabilityScore": 81, "maintenanceCategory": "Moderate" },
+
+  { "id": 561, "manufacturerId": 118, "name": "300NK", "category": "BIKE", "bodyType": "Sports", "launchYear": 2019, "popularityScore": 75, "resaleScore": 68, "reliabilityScore": 78, "maintenanceCategory": "Moderate" },
+
+  { "id": 562, "manufacturerId": 119, "name": "V302C", "category": "BIKE", "bodyType": "Cruiser", "launchYear": 2022, "popularityScore": 76, "resaleScore": 70, "reliabilityScore": 79, "maintenanceCategory": "High" },
+
+  { "id": 563, "manufacturerId": 120, "name": "V85 TT", "category": "BIKE", "bodyType": "Tourer", "launchYear": 2020, "popularityScore": 78, "resaleScore": 72, "reliabilityScore": 83, "maintenanceCategory": "Premium" }
+]
