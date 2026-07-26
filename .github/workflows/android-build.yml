@@ -55,19 +55,19 @@ jobs:
           KEY_PASSWORD: ${{ secrets.KEY_PASSWORD || 'android' }}
 
       - name: Build Debug APK
-        run: ./gradlew assembleDebug --stacktrace
+        run: ./gradlew assembleDebug --no-configuration-cache --stacktrace
         env:
           STORE_PASSWORD: ${{ secrets.STORE_PASSWORD || 'android' }}
           KEY_PASSWORD: ${{ secrets.KEY_PASSWORD || 'android' }}
 
       - name: Build Release APK
-        run: ./gradlew assembleRelease --stacktrace
+        run: ./gradlew assembleRelease --no-configuration-cache --stacktrace
         env:
           STORE_PASSWORD: ${{ secrets.STORE_PASSWORD || 'android' }}
           KEY_PASSWORD: ${{ secrets.KEY_PASSWORD || 'android' }}
 
       - name: Build Release AAB (Android App Bundle)
-        run: ./gradlew bundleRelease --stacktrace
+        run: ./gradlew bundleRelease --no-configuration-cache --stacktrace
         env:
           STORE_PASSWORD: ${{ secrets.STORE_PASSWORD || 'android' }}
           KEY_PASSWORD: ${{ secrets.KEY_PASSWORD || 'android' }}
