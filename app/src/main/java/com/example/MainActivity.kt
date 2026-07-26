@@ -10,25 +10,32 @@ import com.example.data.repository.ValuationRepositoryImpl
 import com.example.ui.navigation.AppNavGraph
 import com.example.ui.viewmodel.HistoryViewModel
 import com.example.ui.viewmodel.HomeViewModel
+import kotlinx.coroutines.MainScope
+import kotlinx.coroutines.launch
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
 
-        val database = RideWorthDatabase.getDatabase(applicationContext)
-        val valuationRepository = ValuationRepositoryImpl(database.valuationDao())
-
         setContent {
-            val homeViewModel: HomeViewModel = viewModel()
-            val historyViewModel: HistoryViewModel = viewModel {
-                HistoryViewModel(valuationRepository)
-            }
+            try {
+                val database = RideWorthDatabase.getDatabase(applicationContext)
+                val valuationRepository = ValuationRepositoryImpl(database.valuationDao())
 
-            AppNavGraph(
-                homeViewModel = homeViewModel,
-                historyViewModel = historyViewModel
-            )
+                val homeViewModel: HomeViewModel = viewModel()
+                val historyViewModel: HistoryViewModel = viewModel {
+                    HistoryViewModel(valuationRepository)
+                }
+
+                AppNavGraph(
+                    homeViewModel = homeViewModel,
+                    historyViewModel = historyViewModel
+                )
+            } catch (e: Exception) {
+                android.util.Log.e("MainActivity", "Error initializing app: ${e.message}", e)
+                throw e
+            }
         }
     }
 }
