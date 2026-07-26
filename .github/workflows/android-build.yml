@@ -12,7 +12,7 @@ jobs:
     name: Build Android APKs and AAB
     runs-on: ubuntu-latest
     env:
-      GRADLE_OPTS: "-Djava.awt.headless=true -Xmx4g -Dfile.encoding=UTF-8 -Dkotlin.compiler.execution.strategy=daemon"
+      GRADLE_OPTS: "-Djava.awt.headless=true -Xmx4g -Dfile.encoding=UTF-8 -Dkotlin.compiler.execution.strategy=in-process"
 
     steps:
       - name: Checkout Source Code
@@ -54,20 +54,8 @@ jobs:
           STORE_PASSWORD: ${{ secrets.STORE_PASSWORD || 'android' }}
           KEY_PASSWORD: ${{ secrets.KEY_PASSWORD || 'android' }}
 
-      - name: Build Debug APK
-        run: ./gradlew assembleDebug --no-configuration-cache --stacktrace
-        env:
-          STORE_PASSWORD: ${{ secrets.STORE_PASSWORD || 'android' }}
-          KEY_PASSWORD: ${{ secrets.KEY_PASSWORD || 'android' }}
-
-      - name: Build Release APK
-        run: ./gradlew assembleRelease --no-configuration-cache --stacktrace
-        env:
-          STORE_PASSWORD: ${{ secrets.STORE_PASSWORD || 'android' }}
-          KEY_PASSWORD: ${{ secrets.KEY_PASSWORD || 'android' }}
-
-      - name: Build Release AAB (Android App Bundle)
-        run: ./gradlew bundleRelease --no-configuration-cache --stacktrace
+      - name: Build Debug, Release APKs and Release AAB
+        run: ./gradlew assembleDebug assembleRelease bundleRelease --no-daemon --no-configuration-cache --stacktrace
         env:
           STORE_PASSWORD: ${{ secrets.STORE_PASSWORD || 'android' }}
           KEY_PASSWORD: ${{ secrets.KEY_PASSWORD || 'android' }}
