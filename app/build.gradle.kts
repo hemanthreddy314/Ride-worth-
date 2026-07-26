@@ -10,7 +10,7 @@ plugins {
 }
 
 android {
-  namespace = "com.example"
+  namespace = "com.aistudio.rideworth.app"
   compileSdk = 35
 
   defaultConfig {
