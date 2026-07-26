@@ -36,6 +36,16 @@ jobs:
       - name: Grant Execute Permission for Gradlew
         run: chmod +x gradlew
 
+      - name: Generate Debug Keystore
+        run: |
+          if [ ! -f "debug.keystore" ]; then
+            echo "Generating debug keystore..."
+            keytool -genkeypair -v -keystore debug.keystore \
+              -alias androiddebugkey -keyalg RSA -keysize 2048 -validity 10000 \
+              -dname "CN=Debug, OU=Debug, O=Debug, L=Debug, ST=Debug, C=US" \
+              -storepass android -keypass android
+          fi
+
       - name: Prepare Signing Keystore
         run: |
           if [ -f "debug.keystore.base64" ]; then
