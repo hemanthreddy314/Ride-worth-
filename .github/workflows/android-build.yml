@@ -40,15 +40,15 @@ jobs:
             echo "Decoding debug keystore..."
             base64 -d debug.keystore.base64 > debug.keystore
           fi
-          if [ ! -f "my-upload-key.jks" ]; then
-            if [ -f "debug.keystore" ]; then
-              cp debug.keystore my-upload-key.jks
-            else
-              keytool -genkey -v -keystore my-upload-key.jks \
-                -alias upload -keyalg RSA -keysize 2048 -validity 10000 \
-                -dname "CN=RideWorth, OU=Android, O=RideWorth, L=City, S=State, C=IN" \
-                -storepass android -keypass android
-            fi
+          if [ -n "${{ secrets.KEYSTORE_BASE64 }}" ]; then
+            echo "Decoding KEYSTORE_BASE64 secret..."
+            echo "${{ secrets.KEYSTORE_BASE64 }}" | base64 -d > my-upload-key.jks
+          elif [ ! -f "my-upload-key.jks" ]; then
+            echo "Generating self-signed upload keystore..."
+            keytool -genkey -v -keystore my-upload-key.jks \
+              -alias upload -keyalg RSA -keysize 2048 -validity 10000 \
+              -dname "CN=RideWorth, OU=Android, O=RideWorth, L=City, S=State, C=IN" \
+              -storepass "${STORE_PASSWORD}" -keypass "${KEY_PASSWORD}"
           fi
         env:
           STORE_PASSWORD: ${{ secrets.STORE_PASSWORD || 'android' }}
